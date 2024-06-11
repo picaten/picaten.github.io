@@ -1,0 +1,13 @@
+body{
+    background-image:url("/img/background.jpg");
+}
+.sitetitle{
+    width: 40%;
+    height: 15%;
+    position: fixed;
+    left:30%;
+    top:5%;
+    color:white;
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+}
