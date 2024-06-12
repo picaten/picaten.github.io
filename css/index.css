@@ -1,5 +1,6 @@
 body{
     background-image:url("/img/background.jpg");
+    background-size: cover;
 }
 .sitetitle{
     position: sticky;
@@ -15,4 +16,5 @@ body{
     position:sticky;
     left:0%;
     top:0%;
+    background-color:white;
 }
