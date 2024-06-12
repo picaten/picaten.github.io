@@ -1,20 +1,27 @@
+html{
+    height: 100%;
+    width: 100%;
+}
 body{
     background-image:url("/img/background.jpg");
     background-size: cover;
+    height: 100%;
+    width: 100%;
 }
 .sitetitle{
     position: sticky;
-    left:auto;
-    top: 2%;
+    left:calc((50%-8vw)/2);
+    top: 5%;
     color:black;
-    font-size:5vw;
+    font-size:8vw;
     font-family: 'Times New Roman', Times, serif;
 }
 .left-box{
-    width: 35%;
-    height: 104%;
+    width: 50%;
+    height: 100%;
     position:fixed;
     left:0px;
-    top:0pc;
+    top:0px;
     background-color:white;
+    opacity: 0.8;
 }
