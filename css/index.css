@@ -9,10 +9,7 @@ body{
     width: 100%;
 }
 .sitetitle{
-    width:50%;
-    position: fixed;
-    left:25%;
-    top: 5%;
+    text-align: center;
     color:skyblue;
     font-size:5vw;
     font-family: 'Times New Roman', Times, serif;
