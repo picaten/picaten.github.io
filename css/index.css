@@ -29,5 +29,6 @@ body{
     position: fixed;
     top:0%;
     left:40%;
+    background-color: white;
     opacity: 0.7;
 }
