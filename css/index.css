@@ -2,12 +2,17 @@ body{
     background-image:url("/img/background.jpg");
 }
 .sitetitle{
-    width: 40%;
-    height: 15%;
-    position: fixed;
-    left:30%;
-    top:5%;
-    color:white;
-    font-size:larger;
+    position: sticky;
+    left:auto;
+    top: 2%;
+    color:black;
+    font-size:5vw;
     font-family: 'Times New Roman', Times, serif;
+}
+.left-box{
+    width: 35%;
+    height: 100%;
+    position:sticky;
+    left:0%;
+    top:0%;
 }
