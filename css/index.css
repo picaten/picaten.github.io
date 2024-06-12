@@ -9,8 +9,9 @@ body{
     width: 100%;
 }
 .sitetitle{
+    width:60%;
     position: sticky;
-    left:calc((50%-8vw)/2);
+    left:20%;
     top: 5%;
     color:black;
     font-size:8vw;
@@ -23,5 +24,5 @@ body{
     left:0px;
     top:0px;
     background-color:white;
-    opacity: 0.8;
+    opacity: 0.6;
 }
